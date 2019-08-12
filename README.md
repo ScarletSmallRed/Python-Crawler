@@ -4,3 +4,4 @@ Use **Python** to implement some small projects for data crawling in several dif
 ## Project List
 1. [MaoYan 100](./MaoYan%20100/README.md) (key point: **regular expression**)
 2. [Tou Tiao](./TouTiao/README.md) (key point: **Ajax**)
+3. [Amazon](./Amazon/README.md) (key point: **selenium**)
