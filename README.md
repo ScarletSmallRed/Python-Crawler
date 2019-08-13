@@ -7,3 +7,4 @@ Use **Python** to implement some small projects for data crawling in several dif
 3. [Amazon](./Amazon/README.md) (key point: **selenium**)
 4. [SouGou Weixin](./WeiXin/README.md) (key point: **proxy pool**)
 5. [HKSTP](./HKSTP/README.md) (key point: **pyspider**)
+6. [Zhi Hu](./ZhiHu/README.md) (key point: **Scarpy**)
