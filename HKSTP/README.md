@@ -1,5 +1,7 @@
 # HKSTP
 Use the python crawler framework [pyspider](http://docs.pyspider.org/en/latest/) to crawl this website, [HKSTP](https://www.hkstp.org/en/reach-us/company-directory/), to get company information in the Hong Kong Science Park.
+
+Relevant code [here](./Spider.py).
 ## Work Process
 1. Start `pyspider` using the command line `pyspider`.
 2. on_start: get the main page information.
